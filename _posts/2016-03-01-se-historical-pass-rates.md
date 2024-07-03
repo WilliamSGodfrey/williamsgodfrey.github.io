@@ -1,5 +1,9 @@
 ## Historical NCEES SE Exam Pass Rates
-_Updated January 4, 2023_
+_Updated July 3, 2024_
+
+**_NCEES has not yet released the pass rates for the April 2024 SE exam._**
+
+---
 
 The 16-hour format of the Structural Engineering exam was introduced in April 2011. Beginning in October of that year, I started recording the pass rates after each exam administration. The information provided here was obtained directly from NCEES unless otherwise noted. I've also developed a "Difficulty Rank" metric in an attempt to quantify how difficult each exam was relative to every other administration of the exam since 2011 (a rank of 1 = hardest exam since 2011 relative to every other exam listed in the table).
 
