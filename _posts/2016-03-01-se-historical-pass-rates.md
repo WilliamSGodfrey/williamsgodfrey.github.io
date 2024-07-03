@@ -1,7 +1,7 @@
 ## Historical NCEES SE Exam Pass Rates
 _Updated July 3, 2024_
 
-**_NCEES has not yet released the pass rates for the April 2024 SE exam._**
+**_NCEES has not yet released the pass rates for the computer-based April 2024 SE exam._**
 
 ---
 
