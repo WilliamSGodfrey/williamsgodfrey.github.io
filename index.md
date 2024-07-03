@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I am a licensed structural engineer based in the Atlanta area. I have over 16 years of experience in the analysis and design of new structures as well as the initial response, condition assessment, forensic evaluation, and repair of structures damaged by natural disasters, collapses, fires, building envelope failures, and other large and complex losses.
