@@ -1,4 +1,4 @@
-## Historical NCEES SE Exam Pass Rates
+## NCEES SE Exam (PE Structural Exam) Historical Pass Rates
 _Updated July 3, 2024_
 
 **_NCEES has not yet released the pass rates for the computer-based April 2024 SE exam._**
