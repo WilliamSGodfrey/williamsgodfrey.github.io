@@ -11,6 +11,8 @@ If you have data you'd like to share with me so that I can include it here, plea
 
 ### Historical SE Exam Pass Rates and Relative Exam Difficulty
 
+#### Pencil and paper version of exam:
+
 | Date | Vertical (First Time / Repeat) | Lateral (First Time / Repeat) | Vertical Difficulty Rank | Lateral Difficulty Rank | Overall Difficulty Rank
 |:--------|:-------:|:--------:|:--------:|:--------:|:--------:|
 | 10/2011   | 47% / 30%   | 35% / 25%  | T13|7|10|
@@ -42,6 +44,8 @@ If you have data you'd like to share with me so that I can include it here, plea
 | Mean         | 44% / 30%   | 35% / 31%   |||
 | Std. Dev.    | 6.9% / 6.7% | 6.8% / 7.6% |||
 
+
+#### Computer based testing version of exam:
 | Date | Vertical Breadth (First Time / Repeat) | Vertical Depth Buildings (First Time / Repeat) | Vertical Depth Bridges (First Time / Repeat)    | Lateral Breadth (First Time / Repeat) | Lateral Depth Buildings (First Time / Repeat) | Lateral Depth Bridges (First Time / Repeat)
 |:--------|:-------:|:--------:|:--------:|:--------:|:--------:|:--------:
 |4/2024 | 51% / -  |  14% / - | 28% / - | 45% / - | 16% / - | 48% / -
