@@ -14,7 +14,12 @@ If you have data you'd like to share with me so that I can include it here, plea
 ### Historical SE Exam Pass Rates and Relative Exam Difficulty
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRuMU1aiY6Q0e5UfA2wMPCOrxvhjBoxbR9-60YTr1pTXj60iOYZblMKlwprQ-tFL6L9bgvi-oBX616f/pubhtml?gid=425741513&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-
+<style>
+   #myiframe {
+      width: 100%;
+      height: 100%;
+   }
+</style>
 
 
 <figure>
