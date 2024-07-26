@@ -46,6 +46,7 @@ If you have data you'd like to share with me so that I can include it here, plea
 
 
 #### Computer based testing version of exam:
+
 | Date | Vertical Breadth (First Time / Repeat) | Vertical Depth Buildings (First Time / Repeat) | Vertical Depth Bridges (First Time / Repeat)    | Lateral Breadth (First Time / Repeat) | Lateral Depth Buildings (First Time / Repeat) | Lateral Depth Bridges (First Time / Repeat)
 |:--------|:-------:|:--------:|:--------:|:--------:|:--------:|:--------:
 |4/2024 | 51% / -  |  14% / - | 28% / - | 45% / - | 16% / - | 48% / -
