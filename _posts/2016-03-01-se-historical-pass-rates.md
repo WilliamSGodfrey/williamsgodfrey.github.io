@@ -1,11 +1,9 @@
 ## NCEES SE Exam (PE Structural Exam) Historical Pass Rates
-_Updated July 3, 2024_
+_Updated July 26, 2024_
 
-**_NCEES has not yet released the pass rates for the computer-based April 2024 SE exam._**
+The 16-hour format of the NCEES Structural Engineering Exam (PE Structural Exam) was introduced in April 2011. Beginning in October of that year, I started recording the pass rates after each exam administration. The information provided here was obtained directly from NCEES unless otherwise noted. I've also developed a "Difficulty Rank" metric in an attempt to quantify how difficult each exam was relative to every other administration of the exam since 2011 (a rank of 1 = hardest exam since 2011 relative to every other exam listed in the table).
 
----
-
-The 16-hour format of the Structural Engineering exam was introduced in April 2011. Beginning in October of that year, I started recording the pass rates after each exam administration. The information provided here was obtained directly from NCEES unless otherwise noted. I've also developed a "Difficulty Rank" metric in an attempt to quantify how difficult each exam was relative to every other administration of the exam since 2011 (a rank of 1 = hardest exam since 2011 relative to every other exam listed in the table).
+In April 2024, NCEES transitioned the NCEES Structural Engineering Exam (PE Structural Exam) to a computer based testing (CBT) format administered at third party testing centers. NCEES also simultneously modified the SE Exam format at this time wherein testers were allowed to take, and pass, the breadth and depth portions of the exam separately. Results for the CBT version of the exam are provided below separate from the pencil and paper based version of the exam. I also began tracking the pass rate for the bridge version of the exam beginning in April 2024.
 
 This table is updated twice a year in January and June.
 
@@ -13,7 +11,7 @@ If you have data you'd like to share with me so that I can include it here, plea
 
 ### Historical SE Exam Pass Rates and Relative Exam Difficulty
 
-| Date | SE Vertical Forces (First Time / Repeat) | SE Lateral Forces (First Time / Repeat) | Vertical Difficulty Rank | Lateral Difficulty Rank | Overall Difficulty Rank
+| Date | Vertical (First Time / Repeat) | Lateral (First Time / Repeat) | Vertical Difficulty Rank | Lateral Difficulty Rank | Overall Difficulty Rank
 |:--------|:-------:|:--------:|:--------:|:--------:|:--------:|
 | 10/2011   | 47% / 30%   | 35% / 25%  | T13|7|10|
 | 4/2012   | 45% / 34%   | 46% / 40%   |15|22|21|
@@ -32,7 +30,7 @@ If you have data you'd like to share with me so that I can include it here, plea
 | 10/2018   |  36% / 21%   | 36% / 38%   |3|17|7|
 | 4/2019   |    46% / 34%   | 39% / 26%  |T16|13|15|
 | 10/2019   |    42% / 18%   | 33% / 28%  |5|9|6|
-| 4/2020   |    NO   | EXAM | -|NO|EXAM|
+| 4/2020   |    NO   | EXAM | COVID |NO|EXAM|
 | 10/2020   |    45% / 32%   | 33% / 29%  |T13|10|13|
 | 4/2021   |    44% / 31%   | 39% / 31%  |12|15|16|
 | 10/2021   |    40% / 29%   | 24% / 27%  |9|4|T4|
@@ -44,6 +42,9 @@ If you have data you'd like to share with me so that I can include it here, plea
 | Mean         | 44% / 30%   | 35% / 31%   |||
 | Std. Dev.    | 6.9% / 6.7% | 6.8% / 7.6% |||
 
+| Date | Vertical Breadth (First Time / Repeat) | Vertical Depth Buildings (First Time / Repeat) | Vertical Depth Bridges (First Time / Repeat)    | Lateral Breadth (First Time / Repeat) | Lateral Depth Buildings (First Time / Repeat) | Lateral Depth Bridges (First Time / Repeat)
+|:--------|:-------:|:--------:|:--------:|:--------:|:--------:|:--------:
+|4/2024 | 51% / -  |  14% / - | 28% / - | 45% / - | 16% / - | 48% / -
 
 
 <figure>
