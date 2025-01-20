@@ -50,7 +50,7 @@ If you have data you'd like to share with me so that I can include it here, plea
 | Date | Vertical Breadth (First Time / Repeat) | Vertical Depth Buildings (First Time / Repeat) | Vertical Depth Bridges (First Time / Repeat)    | Lateral Breadth (First Time / Repeat) | Lateral Depth Buildings (First Time / Repeat) | Lateral Depth Bridges (First Time / Repeat)
 |:--------|:-------:|:--------:|:--------:|:--------:|:--------:|:--------:
 |4/2024 | 51% / -  |  14% / - | 28% / - | 45% / - | 16% / - | 48% / -
-
+|10/2024 | 39% /37%  |  14% /18% | 36% /67% | 45% /35% | 23% /16% | 48% / 50%
 
 <figure>
   <img src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRuMU1aiY6Q0e5UfA2wMPCOrxvhjBoxbR9-60YTr1pTXj60iOYZblMKlwprQ-tFL6L9bgvi-oBX616f/pubchart?oid=645378985&format=image" alt="Historical SE Pass Rates">
