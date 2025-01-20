@@ -1,5 +1,5 @@
 ## NCEES SE Exam (PE Structural Exam) Historical Pass Rates
-_Updated July 26, 2024_
+_Updated January 20, 2025_
 
 The 16-hour format of the NCEES Structural Engineering Exam (PE Structural Exam) was introduced in April 2011. Beginning in October of that year, I started recording the pass rates after each exam administration. The information provided here was obtained directly from NCEES unless otherwise noted. I've also developed a "Difficulty Rank" metric in an attempt to quantify how difficult each exam was relative to every other administration of the exam since 2011 (a rank of 1 = hardest exam since 2011 relative to every other exam listed in the table).
 
